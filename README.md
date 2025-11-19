@@ -12,10 +12,10 @@ Python >= 3.8, pandas, numpy, scikit-learn, matplotlib
   
 Model Pipeline / Structure -  
   
-Preprocessing: Handles missing values, bins continuous variables, encodes categorical features
-
-Models:
-
+Preprocessing: Handles missing values, bins continuous variables, encodes categorical features  
+  
+Models:  
+  
 CART Decision Tree (interpretable, captures complex splits)
 
 Logistic Regression (fast, interpretable, baseline)
