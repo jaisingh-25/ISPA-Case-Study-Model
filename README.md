@@ -8,15 +8,7 @@ Features: Age, Tenure, Usage Frequency, Support Calls, Payment Delay, Total Spen
 
 Getting Started Prerequisites:  
   
-Python >= 3.8
-
-pandas
-
-numpy
-
-scikit-learn
-
-matplotlib
+Python >= 3.8, pandas, numpy, scikit-learn, matplotlib
 
 Model Pipeline / Structure
 Preprocessing: Handles missing values, bins continuous variables, encodes categorical features
