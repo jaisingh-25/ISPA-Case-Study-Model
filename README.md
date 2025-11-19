@@ -16,10 +16,10 @@ Preprocessing: Handles missing values, bins continuous variables, encodes catego
   
 Models:  
   
-CART Decision Tree (interpretable, captures complex splits)
-
-Logistic Regression (fast, interpretable, baseline)
-
+CART Decision Tree (interpretable, captures complex splits)  
+  
+Logistic Regression (fast, interpretable, baseline)  
+  
 Validation: Stratified split into train/test, accuracy, ROC-AUC, and classification report
 
 Interpretability: Extract high-confidence decision rules for business action
