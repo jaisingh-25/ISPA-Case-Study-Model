@@ -6,8 +6,8 @@ Data Source: Kaggle
   
 Features: Age, Tenure, Usage Frequency, Support Calls, Payment Delay, Total Spend, Last Interaction, categorical/demographic features, and target variable 'Churn'.
 
-Getting Started
-Prerequisites
+Getting Started Prerequisites:  
+  
 Python >= 3.8
 
 pandas
