@@ -25,7 +25,7 @@ Validation: Stratified split into train/test, accuracy, ROC-AUC, and classificat
 Interpretability: Extract high-confidence decision rules for business action
   
 Business Impact: Segments and prioritizes customers for retention efforts using gains/lift charts
-
+  
 Results
 ROC-AUC: Logistic Regression (0.83), CART (0.81)
 
