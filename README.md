@@ -35,5 +35,5 @@ Key Drivers: contract type, monthly spend, tenure, and service usage
 
 Visualizations
 Churn class distribution, numeric feature histograms, correlation heatmap
-
+  
 Cumulative gains & lift charts (located in /charts folder)
