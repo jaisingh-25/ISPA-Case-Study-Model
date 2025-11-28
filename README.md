@@ -32,7 +32,7 @@ ROC-AUC: Logistic Regression (0.83), CART (0.81)
 Top Decile Lift: Over 2× random, meaning focused targeting is twice as effective as random selection
   
 Key Drivers: contract type, monthly spend, tenure, and service usage
-
+  
 Visualizations
 Churn class distribution, numeric feature histograms, correlation heatmap
   
